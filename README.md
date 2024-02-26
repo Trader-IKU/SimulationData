@@ -1,0 +1,2 @@
+# SimulationData
+TradeBot Simulation data
